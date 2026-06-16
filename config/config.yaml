@@ -1,2 +1,5 @@
 Agent_Model:
   gemini_flash: "gemini-2.5-flash"
+EndPoint:
+  host: 127.0.0.1
+  port: 8000
